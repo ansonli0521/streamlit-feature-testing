@@ -1,0 +1,7 @@
+altair
+pandas
+streamlit
+streamlit-custom-notification-box
+streamlit_authenticator 
+asyncio
+websockets
